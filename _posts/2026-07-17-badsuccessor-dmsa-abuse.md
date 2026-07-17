@@ -1,10 +1,8 @@
-
+---
 title: "Silinmiş Bir Object'den Domain Admin'e: BadSuccessor (CVE-2025-53779) ve dMSA Abuse'ünün Anatomisi"
 date: 2026-07-17 10:00:00 +0300
 categories: [Active Directory]
 tags: [pentest, kerberos, dmsa, badsuccessor, cve-2025-53779, active-directory, redteam]
-
-
 ---
 
 > Bu yazı bir walkthrough değil. Amacım, Windows Server 2025'in yeni **delegated Managed Service Account (dMSA)** feature'ı üzerinden kurulan `BadSuccessor` attack vector'ünü, öncesindeki ve sonrasındaki halkalarla birlikte **hangi mekanizmaya dayandığı ve neden mümkün olduğu** üzerinden açıklamak. Komutlar sadece örnek; asıl mesele altta yatan directory ve protocol davranışları.
