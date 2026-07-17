@@ -222,6 +222,7 @@ exclude:
   - docs
   - tools
   - README.md
+  - KULLANIM-KILAVUZU.md
   - LICENSE
   - purgecss.js
   - "*.config.js"
