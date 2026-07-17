@@ -16,7 +16,7 @@ timezone: Europe/Istanbul
 
 title: Ozan Bozkurt # the main title
 
-tagline: Yazılım ve Teknoloji Üzerine # it will display as the subtitle
+tagline: Siber Uzay üzerinde Çalışmalarım # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Yazılım geliştirme, teknoloji ve öğrendiklerim üzerine notlar paylaştığım kişisel blog.
@@ -35,7 +35,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Ozan Bozkurt
-  email: ozanbozkurt1974@gmail.com # change to your email address
+  email: ozanbozkurt@kamcyber.com # change to your email address
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
